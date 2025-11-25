@@ -1,6 +1,4 @@
 # portfolio-alberto-rodriguez
-portfolio
-
 # Bienvenido , soy Alberto Rodríguez
 
 Graduado en **Ciencia de Datos Aplicada** por la Universitat Oberta de Catalunya (UOC), especializado en **analítica de datos, machine learning, sistemas distribuidos y procesamiento de grandes volúmenes de información**.  
